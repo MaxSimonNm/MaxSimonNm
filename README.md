@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m Nilesh Mukherjee<br> 👀 I’m interested in Systems Biology, Bioinformatics and Pipeline Development<br> 🌱 I’m currently learning advanced Python<br>  📫 How to reach me: nilesh.mukherjee97@gmail.com<br><br>
+ 👋 Hi, I’m Nilesh Mukherjee<br> 👀 I’m interested in Systems Biology, Bioinformatics and Pipeline Development<br> 📫 How to reach me: nilesh.mukherjee97@gmail.com<br><br>
 
 
 ## 🌐 Socials:
